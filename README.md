@@ -9,4 +9,8 @@ It includes IPlugin layer implementation and common errors in conversion.
 * mobilenet-ssd
 * Refinedet
 
+## support tensorrt version
+* tensorrt 4.0.0.4
+* tensorrt 4.0.1.6
+
 ## layer description
