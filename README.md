@@ -14,3 +14,10 @@ It includes IPlugin layer implementation and common errors in conversion.
 * tensorrt 4.0.1.6
 
 ## layer description
+
+
+
+## compile the project
+* download the link[https://pan.baidu.com/s/170phX6-q7kj5y9DmFC1yug], copy the caffemodel to model directory
+* modify CMakeLists.txt
+* run a.sh
