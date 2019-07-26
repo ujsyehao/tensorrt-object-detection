@@ -21,3 +21,9 @@ It includes IPlugin layer implementation and common errors in conversion.
 * download the link[https://pan.baidu.com/s/170phX6-q7kj5y9DmFC1yug], copy the caffemodel to model directory
 * modify CMakeLists.txt
 * run a.sh
+
+
+
+## TODO
+* update code
+* add multiple version support
